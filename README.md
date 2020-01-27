@@ -1,1 +1,1 @@
-We have the most basic and unefficient working model ready for detecting car in images ~ uses about 550 mbs of memory
+We have the most basic and inefficient working model ready for detecting car in images ~ uses about 550 mbs of memory
