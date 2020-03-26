@@ -1,1 +1,3 @@
-We have the most basic and inefficient working model ready for detecting car in images ~ uses about 550 mbs of memory
+This package does the basic detection of cars and spits out the coordinates of the car on the image in the format of ((x, y), x+w, y+h)
+
+~AA
