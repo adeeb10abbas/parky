@@ -17,4 +17,9 @@ if __name__ == "__main__":
         if cv2.waitKey(33) == 27: 
             break
 
-    
+    	#need to focus on a ROI so that we can 
+	#https://www.learnopencv.com/how-to-select-a-bounding-box-roi-in-opencv-cpp-python/
+	#https://stackoverflow.com/questions/46447073/how-to-ignore-part-of-a-image-during-feature-extraction-in-opencv
+	#The problem is that we are using python in a bas situation we can be affecting the performance by about 4%!
+	# that might be a lot and we should work on it since we should make it as efficient as possible. 
+
